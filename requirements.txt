@@ -46,7 +46,7 @@ python-dotenv==0.10.1
 pytz==2018.9
 PyWavelets==1.0.2
 pywin32-ctypes==0.2.0
-PyYAML==5.1
+PyYAML==5.4
 redis==3.2.1
 requests==2.21.0
 rsa==4.0
